@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/Testimonio.css';
 
 function Testimonio(props) {
-  // Esta línea construye la ruta correcta para Vite
+  
   const rutaImagen = new URL(`../assets/img/Testimonio-${props.imagen}.png`, import.meta.url).href;
 
   return (

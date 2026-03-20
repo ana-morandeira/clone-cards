@@ -1,7 +1,7 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  background-color: #f5f6f7; /* Gris muy claro como el original */
-  color: #1b1b32;           /* El azul oscuro de freeCodeCamp */
+  background-color: #f5f6f7; 
+  color: #1b1b32;           
 }
 
 body {
